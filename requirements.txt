@@ -29,5 +29,3 @@ memoized-property
 termcolor
 
 # shared packages
-git+ssh://git@github.com/tolyai/packshared
-git+ssh://git@github.com/JanKrl/jantest
